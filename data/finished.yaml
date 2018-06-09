@@ -1,7 +1,7 @@
 - author: Stephen R. Covey
   title: "The 7 Habits of Highly Effective People"
-  finished: False
-  rating: TODO
+  finished: 2018-06-09
+  rating: 4
   quotes:
     - page: 80
       content: |
@@ -9,14 +9,6 @@
     - page: 98
       content: |
         "It's incredibly easy to get caught up in an activity trap, in the busy-ness of life, to work harder and harder at climbing the ladder of success only to discover it's leaning against the wrong wall. It is possible to be busy - very busy - without being very effective."
-- author: Douglas R. Hofstadter
-  title: "Gödel, Escher, Bach - an Eternal Golden Braid"
-  finished: False
-  rating: TODO
-- author: Gayle Laakmann McDowell
-  title: "Cracking the Coding Interview"
-  finished: False
-  rating: TODO
 - author: Robert B. Cialdini PhD
   title: "Influence: The Psychology of Persuasion"
   finished: 2018-05-26
