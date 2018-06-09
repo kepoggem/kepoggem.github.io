@@ -2,78 +2,87 @@
   title: "The 7 Habits of Highly Effective People"
   finished: False
   rating: TODO
+  quotes:
+    - page: 80
+      content: |
+        "In the great literature of all progressive societies, love is a verb. [...] Love is something you do."
+    - page: 98
+      content: |
+        "It's incredibly easy to get caught up in an activity trap, in the busy-ness of life, to work harder and harder at climbing the ladder of success only to discover it's leaning against the wrong wall. It is possible to be busy - very busy - without being very effective."
+- author: Douglas R. Hofstadter
+  title: "Gödel, Escher, Bach - an Eternal Golden Braid"
+  finished: False
+  rating: TODO
+- author: Gayle Laakmann McDowell
+  title: "Cracking the Coding Interview"
+  finished: False
+  rating: TODO
 - author: Robert B. Cialdini PhD
   title: "Influence: The Psychology of Persuasion"
   finished: 2018-05-26
   rating: 4
-  quotes:
-    - page: 195
-      content: |
-        "But surely, if 60 million people all do a little, it'll all add up to a lot?"
-        No.
+
 - author: Carnegie, Dale
   title: "How To Win Friends And Influence People"
+  finished: 2018-05-13
+  rating: 5
+  
+- author: Laszlo Bock
+  title: "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead"
+  finished: 2018-05-05
+  rating: 4
+  quotes:
+    - page: 206
+      content: |
+        [...] it's not about how much time you spend learning, but rather how you spend that time. [...] He finds evidence that people who
+        attain mastery of a field approach learning in a different way. They shard their activities into tiny actions [..] and repeat them relentlessly.
+    - page: 238
+      content: |
+        [...] reported in the journal Personnel Psychology that human performance actually follows a power law distribution.
+    - page: 296
+      content: |
+        [...] research that shows the simple act of making decisions degrades one's ability ro make further decisions. It's why shopping is so exhausting.
+- author: Dale Carnegie
+  title: "How to win friends & influence people in the digital age"
   finished: 2018-05-17
+  rating: 4
+- author: Susan David, Phd 
+  title: "Emotional Agility"
+  finished: 2018-04-20
   rating: 5
   quotes:
-    - page: xi
+    - page: 42
       content: |
-        It is all too easy to take language, one's own language,
-        for granted -- one may need to encounter another language, or rather
-        another mode of language, in order to be astonished,
-        to be pushed into wonder, again
-    - page: 8
+        [...] bottlers try to unhook by pushing emotions to the side and getting on with things.
+        - page: 46
       content: |
-        And to be defective in language, for a human being, is one
-        of the most desperate of calamities, for it is only through
-        language that we enter fully into our human estate and
-        culture, communicate freely with our fellows, acquire and
-        share information.
-    - page: 115
-      content: |
-        'The aspects of things that are most important to us are
-        hidden because of their simplicity and familiarity,'
-        Wittgenstin says
-- author: Thomas Mann
-  title: "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead"
-  finished: 2018-05-12
+        [...] brooders stew in their misery, endlessly stirring the pot around, and around, and around. Brooders can't let go, and they struggle
+        to compartmentalize as they obsess over a hurt, perceived failure, shortcoming or anxiety.
+- author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+  title: Deep Learning
+  finished: 2018-04-05
+  rating: 4
+- author: S. Kevin Zhour, Hayit Greenspan and Dinggang Shen
+  title: Deep Learning for Medical Image Analysis
+  finished: 2018-02-10
   rating: 3
-  quotes:
-    - page: 3
-      content: |
-        [...] he was most surprisingly conscious of an odd expansion within
-        himself, a king of roving unrest, a youthfully ardent desire for faraway
-        places, a feeling so intense, so new or at least unaccustomed and
-        forgotten for so long, that he stopped short as if rooted to the spot,
-        his hands clasped behind him and his eyes fixed on the ground, in order
-        to examine the nature and purpose of this sensation
-- author: Susan Schaller
-  title: "A Man Without Words"
-  finished: 2017-07-23
+- author: Dr. Adrian Rosebrock
+  title: Deep Learning for Computer Vision
+  finished: 2018-01-12
   rating: 4
-- author: Martin Ford
-  title: "Rise of the Robots: Technology and the Threat of a Jobless Future"
-  finished: 2017-06-20
+- author: Brian Christian and Tom Griffiths
+  title: Algorithms to Live By
+  finished: 2017-12-27
+  rating: 4
+- author: E. H. Grombrich
+  title: The Story of Art
+  finished: 2017
+  rating: 4
+- author: Thomas Piketty
+  title: Capital in the Twenty-First Century
+  finished: 2017
+  rating: 4
+- author: Tom Morris
+  title: Philosophy For Dummies
+  finished: 2017
   rating: 3
-- author: Alison Bechdel
-  title: Fun Home
-  finished: 2017-04-27
-  rating: 4
-- author: Arthur Conan Doyle
-  title: A Study in Scarlet
-  finished: 2017-01-08
-  rating: 4
-  notes:
-    - "From Barnes & Noble's The Complete Sherlock Holmes"
-  quotes:
-    - page: "15"
-      content: | 
-        "No data yet," he answered. "It is a capital mistake
-        to theorize before you have all the evidence. It biases the judgment."
-    - page: "23"
-      content: The sight of a friendly face in the great wilderness
-        of London is a pleasant thing indeed to a lonely man.
-    - page: "31"
-      content: No man burdens his mind with small matters unless
-        he has some very good reason for doing so.
-
