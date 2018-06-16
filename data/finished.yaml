@@ -1,7 +1,7 @@
 - author: Stephen R. Covey
   title: "The 7 Habits of Highly Effective People"
   finished: 2018-06-09
-  rating: 4
+  rating: 5
   quotes:
     - page: 80
       content: |
@@ -16,6 +16,9 @@
     - page: 143
       content: |
         "Without involvement, there is no commitment. Mark it down, asterisk it, circle it, underline it. No involvement, no commitment."
+    - page: 239
+      content: |
+        "Most people do not listen with the intent to understand; they listen with the intent to reply. They're either speaking or preparing to speak. They're filtering everything through their own paradigms, reading their autobiography into other people's lives."
 - author: Robert B. Cialdini PhD
   title: "Influence: The Psychology of Persuasion"
   finished: 2018-05-26
