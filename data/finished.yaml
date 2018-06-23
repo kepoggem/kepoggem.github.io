@@ -1,3 +1,20 @@
+- author: hip Heath & Dan Heath
+  title: "Made to Stick - Why some Ideas Survive and Others Die"
+  finished: 2018-06-23
+  rating: 4
+  quotes:
+    - page: 60
+      content: |
+        "Many simple sticky ideas are acutally generative metaphors in disguise. For example, Disney calls its employees 'cast members'.
+        [...]When they are walking around the park, they are onstage.[...] It is so useful that just by reading [..] you can probably predict how cast members should behave in [new ]siutations."
+    - page: 104
+      content: |
+        "Concreteness is an indispensable component of sticky ideas. [...] Concrete language helps people, especially novices, understand
+        new concepts. Abstraction is the luxury of the expert."
+    - page: 143
+      content: |
+        "Statistics are rarely meaningful in and of themselves. Statistics will, and should, almost always be used to illustrate a relationship.
+        It's more important for people to remember the relationship than the number. [...] its the scale and context that make [statistics helpful]."
 - author: Stephen R. Covey
   title: "The 7 Habits of Highly Effective People"
   finished: 2018-06-16
