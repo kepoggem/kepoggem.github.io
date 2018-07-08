@@ -1,3 +1,33 @@
+- author: Ray Dalio
+  title: "Principles"
+  finished: 2018-07-08
+  rating: 5
+  quotes:
+    - page: 22
+      content: |
+        "The most painful lesson that was repeatedly hammered home is that you can never be sure of anything
+        There are always risks out there that can hurt you badly, even in the seemingly safest bets, so it's always best to assume you're missing something."
+    - page: 122
+      content: |
+        "I began to experience painful moments in a radically different way. Instead of feeling frustrated or overwhelmed, I saw pain as nature's
+        reminder that there is something important for me to learn. Encountering pains and figuring out the lessons they were trying to give me became a sort of a game to me."
+    - page: 133
+      content: |
+        "I have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to solve. By solving the puzzle
+        , I get a gem in the form of a principle that helps me avoid the same sort of problem in the future."
+    - page: 140
+      content: |
+        "Don't get hung up on your views of how things 'should' be because you will miss out on learning how they really are.
+        It's important not to let our biases stand in the way of our objectivity."
+    - page: 185
+      content: |
+        "Let's look at what tends to happen when someone disagrees with you and asks you to explain your thinking. Because you are programmed to view such challenges as attack, you get angry, even through it would be
+        more logical for you to be interested in the other person's perspective, especially if they are intelligent.
+        [...]If you are too proud of what you know or of how good you are at something you will learn less, make inferior decisions, and fall short of your potential."
+    - page: 255
+      content: |
+        "Get rid of irrelevant details [...]. 'Any damn fool can make it complex. It takes a genius to make it simple'
+        Think of Picasso. He could paint beautiful representational paintings from an early age, but he continually pared down and simplified as his career progressed."
 - author: Chip Heath & Dan Heath
   title: "Made to Stick - Why some Ideas Survive and Others Die"
   finished: 2018-06-23
