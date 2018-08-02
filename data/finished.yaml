@@ -28,6 +28,32 @@
       content: |
         "Get rid of irrelevant details [...]. 'Any damn fool can make it complex. It takes a genius to make it simple'
         Think of Picasso. He could paint beautiful representational paintings from an early age, but he continually pared down and simplified as his career progressed."
+- author: Carmine Gallo
+  title: "Talk like TED"
+  finished: 2018-08-02
+  rating: 3
+  quotes:
+    - page: 38
+      content: |
+        "(...) If you want to help someone, shut up and listen."
+    - page: 152
+      content: |
+        "Persuasion occurs when you reach a person's heart and head - logic and emotion. You'll need evidence, data and statistics to back up your argument.
+        Make numbers meaningful, memorable, and jaw-dropping by placing them in a context that the audience can relate to."
+    - page: 184
+      content: |
+        "Researchers have discovered that 'cognitive baclog', too much information, prevents the successful transmission of ideas."
+    - page: 193
+      content: |
+        "(...) The rule of three. Simply put, the human mind can consume only about three 'chunks' of information
+        in short-term, or working, memory. As more and more items added to a list, the average person retains less and less."
+    - page: 205
+      content: |
+        "When the brain is allowed to build two mental representations of an explanation - a verbal model and a visual model - the mental connections are not
+        just a little stronger. They are much, much stronger. Add touch and you've got a winner!"
+    - page: 239
+      content: |
+        "'I don't think of work as work and play as play. It's all living.' - Sir Richard Branson"
 - author: Chip Heath & Dan Heath
   title: "Made to Stick - Why some Ideas Survive and Others Die"
   finished: 2018-06-23
